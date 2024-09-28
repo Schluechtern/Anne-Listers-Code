@@ -4,7 +4,7 @@ Anne-Lister-J503-X-Mattone-Regular.otf includes A-Z and a-z and characters are m
 
 How to install?
 Download the .otf files or the whole repostry.
-On Linux fonts are usually stored in "/usr/local/share/fonts". Copy the .otf file in there. You can use a subfolder.
+On Arch Linux fonts can manually be stored in "/usr/local/share/fonts". Copy the .otf file in there. You can use a subfolder.
 On some Linux systems double click on the .otf file opens a helper to install them.
 On Windows right-click on the .otf and choose "Install", I guess, I have not tried.
 
