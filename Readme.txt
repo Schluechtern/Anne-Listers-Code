@@ -2,8 +2,6 @@ Anne Lister's Code as a Font. Since she wrote numbers as 'fourhundredtwenty' I m
 
 Anne-Lister-J503-X-Mattone-Regular.otf includes A-Z and a-z and characters are made by Nunzio Mazzaferro.
 
-![alt text](https://github.com/Schluechtern/Anne-Listers-Code/blob/main/Screenshot_2024-10-08_23-49-18.png?raw=true)
-
 How to install?
 Download the .otf files or the whole repostry.
 On Arch Linux fonts can manually be stored in "/usr/local/share/fonts". Copy the .otf file in there. You can use a subfolder.
