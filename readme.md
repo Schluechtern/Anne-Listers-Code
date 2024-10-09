@@ -17,13 +17,21 @@ https://www.catalogue.wyjs.org.uk/TreeBrowse.aspx?src=CalmView.Catalog&field=Ref
 
 Here are some screenshots showing it as default font on my system:
 ![Screenshot of my system using it as font everywhere ](Screenshot_2024-10-08_23-50-34.png?raw=true "Screenshot_1")
-Kate and Thunar:2024-10-09_00-21-56.png
+
+Kate and Thunar:
 ![Screenshot of my system using it as font everywhere ](Screenshot_2024-10-08_23-49-18.png?raw=true "Screenshot_2")
+
 Typing passwords is super fun:
 ![Screenshot of my system using it as font everywhere ](Screenshot_2024-10-08_23-51-30.png?raw=true "Screenshot_3")
+
 Or reading Arch wiki:
 ![Screenshot of my system using it as font everywhere ](Screenshot_2024-10-08_23-59-39.png?raw=true "Screenshot_4")
+
+Or reading Wikipedia and some diary:
+![Screenshot of my system using it as font everywhere ](Screenshot_2024-10-09_11-08-12.png?raw=true "Screenshot_7")
+
 It can be used in Libreoffice:
 ![Screenshot of the font in Libreoffice ](Screenshot_2024-10-09_00-19-50.png?raw=true "Screenshot_5")
+
 And for the neofetch enthusiasts:
 ![Screenshot of my system using it as font everywhere ](Screenshot_2024-10-09_00-21-56.png?raw=true "Screenshot_6")
